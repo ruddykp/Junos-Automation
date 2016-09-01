@@ -1,6 +1,6 @@
 # Junos-Automation
 <snippet>
-  <content><![CDATA[
+  <content>
 # ${1:Project Name}
 TODO: This project contains the necessary information to automate the configuration of Junos devices
 ## Installation
